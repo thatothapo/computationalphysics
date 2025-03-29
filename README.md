@@ -1,2 +1,2 @@
 # Computational Physics
-Some worked problems from a Computational Physics course.
+Various physics problems and ideas solved and represented computationally.
